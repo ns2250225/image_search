@@ -1,6 +1,6 @@
 # 用图片单词搜索相似的图片
 ## 准备文件 ##
-- vlfeat：解压完之后把bin目录加到系统Path中，取保cmd能执行sift命令
+- vlfeat：解压完之后把bin目录加到系统Path中，确保cmd能执行sift命令
 - pysqlite：pip install pysqlite
 - cherryPy：pip install cherrypy
 - matplotlib：pip install matplotlib
